@@ -1,1 +1,31 @@
-'/* Add your styles here */ body { font-family: Arial, sans-serif; background-color: #f0f0f0; color: #333; } h1 { color: #007bff; }' 
+/* Add your styles here */ 
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+
+.highlight {
+    background-color: #ffd700; /* Highlight color */
+    padding: 10px; /* Add some padding for better visibility */
+}
+
+
+#unique-heading {
+    color: #007bff; /* Blue color */
+    text-decoration: underline; /* Underline the text */
+}
+
+
+a:hover {
+    color: #ff4500; /* Change color on hover (e.g., orange) */
+}
+
+
+.section {
+    border: 2px solid #333; /* Add a border to the section */
+    margin: 10px; /* Add margin around the section */
+}
+
